@@ -7,3 +7,4 @@ Ce dépôt a donc pour but de comparer notre algorithme à des algorithmes déj�
 * Covid-CT-Lung.ipyng : Utilise un CNN et provient du dépôt suivant : https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model
 * pyDeepInsight : Bibliothèque Python transformant des données en images pour le CNN ci-dessus et qui provient de : https://github.com/alok-ai-lab/pyDeepInsight
 * TER.yaml : Fichier de configuration de l'environnement Anaconda pour faire tourner les différents notebook
+* main.py et detection_Anomalies.py : Fichier pour faire tourner notre algorithme
